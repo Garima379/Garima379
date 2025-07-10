@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats:
 
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garima379&show_icons=true&theme=radical)
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=Garima379&theme=radical](https://github.com/Garima379?tab=repositories))
+
 
 ---
 
