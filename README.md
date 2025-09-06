@@ -5,7 +5,7 @@
 
 ### 💼 About Me:
 
-- 💻 I’m a passionate **Frontend Developer** with hands-on experience in building user-friendly and responsive web applications.
+- 💻 I’m a passionate **Full-Stack Developer** with hands-on experience in building user-friendly and responsive web applications.
 - 👩‍💻 I recently completed the [Pixisphere Frontend Project](https://pixisphere-frontend.vercel.app), using **React.js**, **Tailwind CSS**, and **JSON Server**.
 - 🧠 Currently learning  **Next.js**, **Node.js**, **Express.js**, and **SQL** for full-stack development.
 - 🎯 My focus is on creating clean UI, modular code, and seamless user experience.
