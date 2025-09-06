@@ -29,6 +29,10 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
+![DSA](https://img.shields.io/badge/-DSA-FF6F00?logo=code&logoColor=white)  
 
 ---
 
